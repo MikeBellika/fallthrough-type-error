@@ -9,7 +9,7 @@ pnpm i
 ## Type check
 
 ```
-npx vue-tsc --build --noEmit
+pnpm type-check
 ```
 
 Should return something like
